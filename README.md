@@ -15,7 +15,7 @@ Descripcion de que es un canvas de valor
 
 ### Scope 
 Descripcion de en que consiste el scope 
-#### UX PERSONA
+#### UX Persona
 ![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/P1.png?raw=true)
 ![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/P2.png?raw=true)
 ![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/P3.png?raw=true)
