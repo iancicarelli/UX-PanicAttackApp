@@ -35,6 +35,7 @@ As for UX Personas, we created profiles of potential users who would benefit fro
 #### Benchmark 
 
 #### Customer Journey Map 
+The Customer Journey Map is a valuable tool for understanding the user experience in their interaction with MindEase. By mapping each stage in detail, from the first contact with the application to its recurrent use, we can identify the emotions, needs and critical moments that users experience, especially during a panic attack. This analysis allows us to detect challenges and opportunities to improve their experience, helping us to design effective and empathetic solutions. By immersing ourselves in the user's world, we strengthen their bond with MindEase and create an experience that truly accompanies them in the most difficult moments.
 ![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/CJM.png?raw=true)
 
 ### Structure 
