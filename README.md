@@ -3,11 +3,11 @@ User experience design process for an application that will help you cope with y
 
 ### Members and roles
 
-Mario Laurie: Project Manager.
-Sofia Medina: Presenter.
-Gustavo Soto: Designer.
-Ian Cicarelli: Analyst.
-Camila Cartes: Designer.
+Mario Laurie: Project Manager. //
+Sofia Medina: Presenter. //
+Gustavo Soto: Designer. //
+Ian Cicarelli: Analyst. //
+Camila Cartes: Designer. //
 
 ### Index
 
