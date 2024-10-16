@@ -15,7 +15,7 @@ The problem to be solved is the lack of support tools regarding panic and/or anx
 
 ### Strategy 
 Descripcion de que es un canvas de valor 
-[] Imagen de canvas de valor
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/64fa9582d4e603680b51056f18b68ff43db76f93/Final%20proyect%20Value%20Proposition%20Canvas.png)
 
 ### Scope 
 Descripcion de en que consiste el scope 
