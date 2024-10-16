@@ -15,6 +15,15 @@ Descripcion de que es un canvas de valor
 
 ### Scope 
 Descripcion de en que consiste el scope 
-UX PERSONA
-Benchmark 
-CJM 
+#### UX PERSONA
+#### Benchmark 
+#### CJM 
+
+### Structure 
+Navegación de la app
+
+### Skeleton 
+#### wireframe
+
+### Surface 
+#### Mockup 
