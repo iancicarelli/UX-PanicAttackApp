@@ -14,7 +14,7 @@ The purpose of this project is to be an educational and application instance of 
 The problem to be solved is the lack of support tools regarding panic and/or anxiety attacks. Since this project corresponds exclusively to user experience design and its elements, this document describes the strategy, scope, structure, skeleton, and surface. All of the above is focused on a mobile application to monitor and track panic attacks and how to effectively address them.
 
 ### Strategy 
-Descripcion de que es un canvas de valor 
+The first step undertaken by the team is to articulate the strategy. A "Value Proposition Canvas" is used as a way to compare our application and the potential solution to the customer's need.
 ![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/64fa9582d4e603680b51056f18b68ff43db76f93/Final%20proyect%20Value%20Proposition%20Canvas.png)
 
 ### Scope 
