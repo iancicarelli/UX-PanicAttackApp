@@ -9,6 +9,10 @@ User experience design process for an application that will help you cope with y
 
 ### Description
 
+The purpose of this project is to be an educational and application instance of user experience design learning.
+
+The problem to be solved is the lack of support tools regarding panic and/or anxiety attacks. Since this project corresponds exclusively to user experience design and its elements, this document describes the strategy, scope, structure, skeleton, and surface. All of the above is focused on a mobile application to monitor and track panic attacks and how to effectively address them.
+
 ### Strategy 
 Descripcion de que es un canvas de valor 
 [] Imagen de canvas de valor
