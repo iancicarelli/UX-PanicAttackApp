@@ -1,13 +1,13 @@
 # UX-PanicAttackApp (Nombre app)
 User experience design process for an application that will help you cope with your panic attacks, where you can keep a record, receive support messages, notify your contacts and much more
 
-### Integrantes y roles
+### Members and roles
 
 ### Index
 
-### Problema
+### Problem
 
-### Descripcion de la APP
+### Description
 
 ### Strategy 
 Descripcion de que es un canvas de valor 
@@ -16,8 +16,13 @@ Descripcion de que es un canvas de valor
 ### Scope 
 Descripcion de en que consiste el scope 
 #### UX PERSONA
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/P1.png?raw=true)
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/P2.png?raw=true)
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/P3.png?raw=true)
 #### Benchmark 
-#### CJM 
+
+#### Customer Journey Map 
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/CJM.png?raw=true)
 
 ### Structure 
 Navegación de la app
