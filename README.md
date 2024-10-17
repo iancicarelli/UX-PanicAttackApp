@@ -53,7 +53,10 @@ As for UX Personas, we created profiles of potential users who would benefit fro
 ![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/P2.png?raw=true)
 ![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/P3.png?raw=true)
 #### Benchmark 
+In order to develop an application that meets user expectations, it is essential for the team to perform a comparative analysis of existing applications on the market, especially direct competitors. This benchmarking process allows the team to identify both successes and areas for improvement in other products, in order to apply these lessons to their own development.
 
+By studying competing applications, the team can avoid common mistakes and adopt successful features, which helps create a more robust solution aligned with user needs.
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Benchmark.png)
 #### Customer Journey Map 
 The Customer Journey Map is a valuable tool for understanding the user experience in their interaction with MindEase. By mapping each stage in detail, from the first contact with the application to its recurrent use, we can identify the emotions, needs and critical moments that users experience, especially during a panic attack. This analysis allows us to detect challenges and opportunities to improve their experience, helping us to design effective and empathetic solutions. By immersing ourselves in the user's world, we strengthen their bond with MindEase and create an experience that truly accompanies them in the most difficult moments.
 ![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/CJM.png?raw=true)
