@@ -11,6 +11,14 @@ User experience design process for an application that will help you cope with y
 
 
 ### Index
+- [Problem](#problem)
+- [Description](#description)
+- [Strategy](#strategy)
+- [Scope](#scope)
+- [Structure](#structure)
+- [Skeleton](#skeleton)
+- [Surface](#surface)
+- [Links](#links)
 
 ### Problem
 
@@ -51,3 +59,8 @@ Once the wireframe has been reviewed and approved by the design, development, an
 
 Mockups are used at this stage to offer a more accurate representation of the interface, integrating not only the structure and functionality, but also the visual aspects that will influence how users perceive and navigate the product. The goal is for the final design to not only be aesthetically pleasing, but also communicate the brand identity and guide users effectively.
 #### Mockup 
+
+### Links
+
+#### Figma 
++ https://www.figma.com/team_invite/redeem/xY72Wnk2FyOXep0PXoPivs 
