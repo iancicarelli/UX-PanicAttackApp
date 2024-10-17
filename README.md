@@ -59,7 +59,8 @@ The Customer Journey Map is a valuable tool for understanding the user experienc
 ![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/CJM.png?raw=true)
 
 ### Structure 
-Navegación de la app
+The Structure section defines the organization and flow of the application, showing how the different screens and functionalities are connected and navigated. The goal is to ensure fluid and efficient navigation, prioritizing quick access to the essential tools that the user needs at critical moments.
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Sitemap.png)
 
 ### Skeleton 
 Wireframe is a visual schematic that represents the basic structure of an application page or screen. After defining requirements and refining user needs, we begin wireframe design as part of the skeleton blueprint (Chapter 6, User Experience Elements). At this stage, key aspects of the interface, navigation, and layout are identified. From this, a mockup is created to show how the design will communicate with the user and present information. In line with the surface blueprint (Chapter 7, User Experience Elements), wireframes guide the final implementation of the user interface, emphasizing visual design and final presentation. Additionally, wireframes facilitate communication between designers, developers, and stakeholders, allowing for discussion and validation of the design and functionality prior to implementation.
@@ -70,6 +71,43 @@ Once the wireframe has been reviewed and approved by the design, development, an
 
 Mockups are used at this stage to offer a more accurate representation of the interface, integrating not only the structure and functionality, but also the visual aspects that will influence how users perceive and navigate the product. The goal is for the final design to not only be aesthetically pleasing, but also communicate the brand identity and guide users effectively.
 #### Mockup 
+This section shows the most relevant views for you to review in more detail.[click](https://github.com/iancicarelli/UX-PanicAttackApp/tree/main/Mockups)
+
+Home
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Mockups/Principal.png)
+
+Background 
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Mockups/Historial.png)
+
+Configuration
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Mockups/Config.png)
+
+Crisis
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Mockups/Crisis.png)
+
+Crisis log
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Mockups/Registro.png)
+
+Guided breathing
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Mockups/Respiracion%20guiada1.png)
+
+Contacts
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Mockups/Contactos.png)
+
+Message of support
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Mockups/Mensajes%20Apoyo.png)
+
+Communication card
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Mockups/Tarjetas%20de%20comunicaci%C3%B3n.png)
 
 ### Links
 
