@@ -129,6 +129,8 @@ Initially, a single color, green, was used to represent the application as a who
 
 Adding to this is the involvement of Billy, a character that represents calm and will assist each user during their panic or anxiety attacks. Billy not only provides users with support tools but also effectively reinforces the identity of the application.
 
+On the other hand, the choice of button size was an essential aspect when visualizing the application, as it took into account the user's perspective. If someone were in that situation, would they really have the ability to click shakily on the correct buttons? Because of this, what would be ideal: to make buttons small or large? Should they be swipeable or not? And if they are swipeable, should there be instructions regarding this? Without the intention of overwhelming with unnecessary information, but with the appropriate commands, the application adapted increasingly to the needs of the analyzed users.
+
 ### Links
 
 #### Figma 
