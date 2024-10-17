@@ -47,4 +47,7 @@ Wireframe is a visual schematic that represents the basic structure of an applic
 #### wireframe
 
 ### Surface 
+Once the wireframe has been reviewed and approved by the design, development, and stakeholder teams, the next step is to create a more visually detailed interface. In this phase, which corresponds to the Surface Plan (Chapter 7, User Experience Elements), the focus is on the final appearance of the app and how users will interact with it visually. Elements such as color, typography, and contrast are critical to creating an engaging and coherent experience.
+
+Mockups are used at this stage to offer a more accurate representation of the interface, integrating not only the structure and functionality, but also the visual aspects that will influence how users perceive and navigate the product. The goal is for the final design to not only be aesthetically pleasing, but also communicate the brand identity and guide users effectively.
 #### Mockup 
