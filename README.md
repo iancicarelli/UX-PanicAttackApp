@@ -21,6 +21,7 @@ User experience design process for an application that will help you cope with y
 - [Links](#links)
 
 ### Problem
+The core problem of this project lies in the lack of specific and accessible support tools for people who suffer from panic and/or anxiety attacks. Currently, many people do not have immediate resources to help them manage their crises effectively, which can aggravate their situation and generate a feeling of helplessness. Although certain mental health resources exist, they are not always sufficient or designed to respond in real time to the needs of users during a panic episode. The absence of a specialized tool that allows people to monitor, understand and manage their anxiety attacks effectively is a significant barrier on the path to better control of their emotional well-being.
 
 ### Description
 
