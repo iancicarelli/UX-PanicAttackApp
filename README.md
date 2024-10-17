@@ -25,9 +25,19 @@ The core problem of this project lies in the lack of specific and accessible sup
 
 ### Description
 
-The purpose of this project is to be an educational and application instance of user experience design learning.
+This project focuses on providing immediate and effective support to people experiencing panic or anxiety attacks, through tools designed to help them manage these episodes safely and calmly. The application not only offers solutions in times of crisis, but also facilitates ongoing monitoring and the establishment of a support network.
 
-The problem to be solved is the lack of support tools regarding panic and/or anxiety attacks. Since this project corresponds exclusively to user experience design and its elements, this document describes the strategy, scope, structure, skeleton, and surface. All of the above is focused on a mobile application to monitor and track panic attacks and how to effectively address them.
+Key features:
+
++ Guided breathing: It will include guided breathing exercises so that the user can control their breathing and reduce physical symptoms during a panic or anxiety attack.
+
++ Support messages: It will provide calming and encouraging written messages to help the user mitigate stress during an episode.
+
++ Instant messaging to support contacts: It will allow automatic and quick messages to be sent to trusted contacts, alerting them that the user is experiencing an attack and needs help.
+
++ Support contacts section: It will include a section where the user can add and manage their support contacts, facilitating a quick connection with trusted people during critical moments.
+
++ Attack history: A log will be provided where the user can monitor and track their panic attacks, obtaining details about each episode. This feature will help identify patterns and improve the management of attacks over time.
 
 ### Strategy 
 The first step undertaken by the team is to articulate the strategy. A "Value Proposition Canvas" is used as a way to compare our application and the potential solution to the customer's need.
