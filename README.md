@@ -6,8 +6,8 @@ User experience design process for an application that will help you cope with y
 + Mario Laurie: Project Manager. 
 + Sofia Medina: Presenter.
 + Gustavo Soto: Designer.
-+ Ian Cicarelli: Analyst.
-+ Camila Cartes: Designer.
++ Ian Cicarelli: Designer.
++ Camila Cartes: Analyst.
 
 
 ### Index
