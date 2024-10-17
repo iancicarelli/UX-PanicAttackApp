@@ -43,6 +43,7 @@ The Customer Journey Map is a valuable tool for understanding the user experienc
 Navegación de la app
 
 ### Skeleton 
+Wireframe is a visual schematic that represents the basic structure of an application page or screen. After defining requirements and refining user needs, we begin wireframe design as part of the skeleton blueprint (Chapter 6, User Experience Elements). At this stage, key aspects of the interface, navigation, and layout are identified. From this, a mockup is created to show how the design will communicate with the user and present information. In line with the surface blueprint (Chapter 7, User Experience Elements), wireframes guide the final implementation of the user interface, emphasizing visual design and final presentation. Additionally, wireframes facilitate communication between designers, developers, and stakeholders, allowing for discussion and validation of the design and functionality prior to implementation.
 #### wireframe
 
 ### Surface 
