@@ -68,6 +68,19 @@ The Structure section defines the organization and flow of the application, show
 ### Skeleton 
 Wireframe is a visual schematic that represents the basic structure of an application page or screen. After defining requirements and refining user needs, we begin wireframe design as part of the skeleton blueprint (Chapter 6, User Experience Elements). At this stage, key aspects of the interface, navigation, and layout are identified. From this, a mockup is created to show how the design will communicate with the user and present information. In line with the surface blueprint (Chapter 7, User Experience Elements), wireframes guide the final implementation of the user interface, emphasizing visual design and final presentation. Additionally, wireframes facilitate communication between designers, developers, and stakeholders, allowing for discussion and validation of the design and functionality prior to implementation.
 #### wireframe
+This section shows the first wireframes made by the team
+
+Home
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Wireframes/Principal.png)
+
+Configuration
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Wireframes/Config.png)
+
+Register
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Wireframes/Registro.png)
 
 ### Surface 
 Once the wireframe has been reviewed and approved by the design, development, and stakeholder teams, the next step is to create a more visually detailed interface. In this phase, which corresponds to the Surface Plan (Chapter 7, User Experience Elements), the focus is on the final appearance of the app and how users will interact with it visually. Elements such as color, typography, and contrast are critical to creating an engaging and coherent experience.
