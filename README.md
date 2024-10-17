@@ -125,6 +125,10 @@ Communication card
 
 ![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/Mockups/Tarjetas%20de%20comunicaci%C3%B3n.png)
 
+Initially, a single color, green, was used to represent the application as a whole. Additionally, the buttons were flat, and the templates were simple. However, it was decided to opt for buttons in different pastel shades that personalize the design entirely. Thanks to these changes, the application is now much more diverse and visually appealing, offering users a personalized and unique experience.
+
+Adding to this is the involvement of Billy, a character that represents calm and will assist each user during their panic or anxiety attacks. Billy not only provides users with support tools but also effectively reinforces the identity of the application.
+
 ### Links
 
 #### Figma 
