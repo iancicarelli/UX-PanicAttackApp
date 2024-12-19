@@ -136,7 +136,7 @@ On the other hand, the choice of button size was an essential aspect when visual
 In this update, several key changes were implemented to improve the user experience (UX) of the application. These modifications were informed by usability principles and collaborators feedback, aiming to improve the intuitiveness, accessibility, and overall functionality of the app. Below is a detailed summary of the changes:
 
 1.-Guided Breathing Instructions
-+ Added the text "inspire" and "expire" in the breathing section to guide users more effectively during breathing exercises.
++ Added the text "inspirar" and "expirar" in the breathing section to provide users with clearer instructions on what to do, in collaboration with Billy.
 
 2.-Login Section Improvements
 + Updated the label "Cuenta" to "Iniciar sesión" for clarity and consistency
@@ -149,16 +149,25 @@ In this update, several key changes were implemented to improve the user experie
 + Added the ability to view detailed information about past episodes in the history section, providing users with deeper insights and record-keeping capabilities.
 
 5.-Favorite Contacts Feature
-+ Introduced the option to designate contacts as favorites in the contact configuration section, allowing for quicker access and improved usability.
++ Introduced the option to designate contacts as favorites in the contact configuration section, addressing the aspect of prioritization.
 
 6.-Emotion Descriptions
-+ Included descriptive text for emotions on the episode details registration screen, helping users better understand and record their feelings.
++ Included descriptive text for emotions on the episode details registration screen, offering transparency and context for what each feeling represents.
 
 7.-Support Messages and Communication Cards
 + Added predefined messages to the support messages screen and communication cards, offering users convenient and thoughtful templates.
 
 8.-Brand Visibility
 + Displayed the application name at the bottom of all screens, enhancing brand recognition and consistency.
+
+9.-General Breathing Recommendations
++ Implemented a general breathing type as a recommendation for justified breathing intervals.
+
+10.-Explanatory Icons
++ Added icons explaining the purpose of each feature, such as the communication cards, to enhance user understanding and fluency.
+
+11.-Improve Understanding of Features
++ Incorporated icons to clarify the functionality of specific elements, including communication cards, improving understanding and supporting a seamless user experience.
 
 These updates collectively aim to create a more user-centric application that is easy to navigate, visually engaging, and better suited to meet user needs. Each change aligns with best practices in UX design, ensuring the app delivers a seamless and meaningful experience.
 
