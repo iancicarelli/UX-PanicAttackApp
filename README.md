@@ -172,8 +172,41 @@ In this update, several key changes were implemented to improve the user experie
 These updates collectively aim to create a more user-centric application that is easy to navigate, visually engaging, and better suited to meet user needs. Each change aligns with best practices in UX design, ensuring the app delivers a seamless and meaningful experience.
 
 
+### HIGH END INTERFACES UPDATED
 
+The recent updates enhance the app's user experience by improving clarity, navigation, and functionality. Below are the updated interfaces designed to address feedback and improve overall usability. Changes include adding clearer breathing instructions with the text "inspirar" and "expirar," updating the login section for consistency, and refining back button icons for better usability. The history section now offers detailed episode information, while a new favorite contacts feature allows users to prioritize contacts. Emotion descriptions were added to the episode details, along with predefined support messages and communication cards. The app's brand visibility has been increased by displaying the name on all screens, and explanatory icons were added for clearer understanding of features. Additionally, general breathing recommendations and improved icons for specific elements help users navigate the app more intuitively. These updates were driven by user insights and iterative design processes to ensure a more engaging and intuitive experience, prioritizing user-centric design for a seamless and meaningful interaction.
 
+Home
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/New%20Mockups/Principal.png)
+
+Account settings
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/New%20Mockups/Ajustes%20cuenta.png)
+
+History settings
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/New%20Mockups/Ajustes%20historial.png)
+
+Settings
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/New%20Mockups/Config.png)
+
+Crisis
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/New%20Mockups/Crisis.png)
+
+History
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/New%20Mockups/Historial.png)
+
+Message of support
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/New%20Mockups/Mensajes%20Apoyo.png)
+
+Guided breathing
+
+![image](https://github.com/iancicarelli/UX-PanicAttackApp/blob/main/New%20Mockups/Respiracion%20guiada2-1.png)
 
 ### Links
 
