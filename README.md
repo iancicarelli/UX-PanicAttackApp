@@ -133,7 +133,7 @@ On the other hand, the choice of button size was an essential aspect when visual
 
 ### Heuristics and Feedback Implementations
 
-In this update, several key changes were implemented to improve the user experience (UX) of the application. These modifications were informed by usability principles and user feedback, aiming to improve the intuitiveness, accessibility, and overall functionality of the app. Below is a detailed summary of the changes:
+In this update, several key changes were implemented to improve the user experience (UX) of the application. These modifications were informed by usability principles and collaborators feedback, aiming to improve the intuitiveness, accessibility, and overall functionality of the app. Below is a detailed summary of the changes:
 
 1.-Guided Breathing Instructions
 + Added the text "inspire" and "expire" in the breathing section to guide users more effectively during breathing exercises.
