@@ -131,6 +131,41 @@ Adding to this is the involvement of Billy, a character that represents calm and
 
 On the other hand, the choice of button size was an essential aspect when visualizing the application, as it took into account the user's perspective. If someone were in that situation, would they really have the ability to click shakily on the correct buttons? Because of this, what would be ideal: to make buttons small or large? Should they be swipeable or not? And if they are swipeable, should there be instructions regarding this? Without the intention of overwhelming with unnecessary information, but with the appropriate commands, the application adapted increasingly to the needs of the analyzed users.
 
+### Heuristics and Feedback Implementations
+
+In this update, several key changes were implemented to improve the user experience (UX) of the application. These modifications were informed by usability principles and user feedback, aiming to improve the intuitiveness, accessibility, and overall functionality of the app. Below is a detailed summary of the changes:
+
+1.-Guided Breathing Instructions
++ Added the text "inspire" and "expire" in the breathing section to guide users more effectively during breathing exercises.
+
+2.-Login Section Improvements
++ Updated the label "Cuenta" to "Iniciar sesión" for clarity and consistency
++ Replaced the login section icon with the application’s logo, reinforcing branding and familiarity.
+
+3.-Improve Navigation
++ Updated the back button icons across screens with a more intuitive and user-friendly design.
+
+4.-History improvements
++ Added the ability to view detailed information about past episodes in the history section, providing users with deeper insights and record-keeping capabilities.
+
+5.-Favorite Contacts Feature
++ Introduced the option to designate contacts as favorites in the contact configuration section, allowing for quicker access and improved usability.
+
+6.-Emotion Descriptions
++ Included descriptive text for emotions on the episode details registration screen, helping users better understand and record their feelings.
+
+7.-Support Messages and Communication Cards
++ Added predefined messages to the support messages screen and communication cards, offering users convenient and thoughtful templates.
+
+8.-Brand Visibility
++ Displayed the application name at the bottom of all screens, enhancing brand recognition and consistency.
+
+These updates collectively aim to create a more user-centric application that is easy to navigate, visually engaging, and better suited to meet user needs. Each change aligns with best practices in UX design, ensuring the app delivers a seamless and meaningful experience.
+
+
+
+
+
 ### Links
 
 #### Figma 
